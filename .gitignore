@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Personal environment files
+.env
+
+# Portfolio data
+portfolio.json
+
+# VS Code settings
+.vscode/done
